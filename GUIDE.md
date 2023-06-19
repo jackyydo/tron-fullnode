@@ -33,3 +33,7 @@ https://developers.tron.network/docs/nodes-and-clients
 
 Download Snapshotdb.jar at https://developers.tron.network/docs/main-net-database-snapshots
 
+## DNS domain
+
+www.tron-rpc.thango... nginx -> 8545
+
